@@ -21,7 +21,3 @@ impl TheBag {
         item
     }
 }
-
-fn main() {
-    println!("Hello, world!");
-}
